@@ -1,0 +1,8 @@
+llama-index
+openai
+pypdf
+python-dotenv
+google-cloud-aiplatform
+ipykernel
+google-generativeai
+langchain-google-vertexai
