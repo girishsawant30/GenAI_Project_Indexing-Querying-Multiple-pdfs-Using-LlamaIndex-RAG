@@ -7,3 +7,4 @@ ipykernel
 google-generativeai
 langchain-google-vertexai
 nbconvert
+IPython
